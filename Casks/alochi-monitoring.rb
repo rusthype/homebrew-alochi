@@ -1,8 +1,8 @@
 cask "alochi-monitoring" do
-  version "1.0.105"
-  sha256 "b1470c5019eb8d35c7c44eec5185338b3fc2bde1d6efe3fc1eb96f39f3ea3209"
+  version "1.0.106"
+  sha256 "7445e0213c8e920ca6dc99d7d6274e70ee6cd19d5e3cb5febe18a911a5a2fd0b"
 
-  url "https://github.com/rusthype/alochi-monitoring/releases/download/v1.0.105/alochi-monitoring.dmg"
+  url "https://github.com/rusthype/alochi-monitoring/releases/download/v1.0.106/alochi-monitoring.dmg"
   name "Alochi Monitoring"
   desc "Alochi maktablar uchun monitoring tizimi"
   homepage "https://alochi.org"
